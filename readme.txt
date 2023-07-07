@@ -81,11 +81,9 @@ Please note: Uninstalling or deactivating the plugin removes the dashboard widge
 
 Yes, it’s safe. The WP PHP Server Info plugin only displays this data for administrators - users with “manage_options” permission. This data is not made public or shared with third parties. Nevertheless, as an admin you should always ensure that your login is secure.
 
+== Disclaimer ==
 
-== Screenshots ==
-
-1. ![Screenshot 1](assets/screenshot/screenshot-1.png)
-   This is how our Dashboard Widget looks like in your wordpress dashboard - simple yet informative!
+The use of this code is at your own risk. The developer provides no warranty or guarantee regarding the functionality or security of the code. Any damages that may arise from the use of the code are the responsibility of the user.
 
 
 == Changelog ==
